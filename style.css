@@ -42,13 +42,3 @@ section div img{
     height:10vh;
     margin:0px 150px;
 }
-section div .local{
-    position:absolute;
-    margin:30px 900px;
-    text-decoration:none;
-    padding:10px;
-    background-color:rgb(216, 171, 75);
-    color:#660000;
-    font-size:1.2em;
-    border-radius:10px;
-}
